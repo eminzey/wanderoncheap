@@ -1,0 +1,26 @@
+# Site settings
+title: "Wander on Cheap"
+description: "Affordable travel tips, flight deals, and budget-friendly 
+adventures for explorers."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://wanderoncheap.com" # the base hostname & protocol for your 
+site
+
+# Author settings
+author:
+  name: Echo
+  email: your-email@example.com
+
+# Social Links (optional)
+social:
+  twitter: wanderoncheap
+  github: eminzey
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+
